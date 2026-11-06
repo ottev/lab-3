@@ -1,0 +1,6 @@
+total 0
+drwxrwxrwx 1 root root 4096 Nov  6 03:30 .
+drwxrwxrwx 1 root root 4096 Nov  6 03:29 ..
+drwxrwxrwx 1 root root 4096 Nov  6 03:39 backup
+drwxrwxrwx 1 root root 4096 Nov  6 03:40 data
+drwxrwxrwx 1 root root 4096 Nov  6 03:49 evidence
